@@ -4,9 +4,8 @@
 
 **Misconceptions:**
 ---
-No relation to Javascript- completely unrelated.
-At one point it was the old annoying plug in.
----
+No relation to Javascript- completely unrelated.At one point it was the old annoying plug in.
+
 **What it is:**
 ---
 Java belongs to Oracle
@@ -44,17 +43,17 @@ Bytecode is portable
 - Understandable code over clever code
 - Java is quite conservative
 >‘First, do no harm’
----
+
 Increase Developer productivity and maintaining simplicity is for new java features
 Existing code on new JVM should still run on updated code.
 Java is good about controlled deprecation
----
+
 **Why is it good to use Java?:**
 ---
 Popularity about 10 million Java developers
 Web-applications Backend services 
 Data-intensive application
----
+
 **Scalable Development:**
 ---
 Hierarchical and structured codebases
@@ -62,7 +61,7 @@ Hierarchical and structured codebases
 Established coding practices
 Strong tooling
 Wealth of libraries
----
+
 **Productivity: Manage runtime**
 ---
 Automatic memory management - It all handles where and when to allocate memory in and code were to free memory.
@@ -86,7 +85,7 @@ JS is an interpreted language no compilation step
 Not statically typed
 Single-threaded
 You’ll have to launch multiple processes in coordination that are more expensive and harder than in Java.
-===
+
 **Desktop java:**
 ---
 Apps that run on Single machine, interactive applications
@@ -131,7 +130,7 @@ War Web archive can develop multiple applications
 Java EE application servers - Wildfly (red hat), WebSphere (IBM), WebLogic(Oracle), Tomcat (Apache (opensource)).
 Jakarta EE is something you should check out
 
----
+
 **Java in the Cloud:**
 ---
 Data center like Wildfly or WebSphere
@@ -147,7 +146,7 @@ Java Language (7, subsets of 8)
 Still compiled into Java Bytecode instead it runs in DEX (Dalvik Executable Format)
 Android APIs and Java SEish API
 You use the Dalvik Virtual Machine instead of Java Virtual Machine
----
+
 **Spring Framework:**
 ---
 Most popular Java libraries, It is open-source too.
